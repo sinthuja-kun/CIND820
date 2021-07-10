@@ -1,2 +1,2 @@
-# CIND830
-CIND830 code for final project
+# CIND820
+CIND820 code for final project
